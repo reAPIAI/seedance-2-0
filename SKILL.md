@@ -1,6 +1,6 @@
 ---
 name: seedance-2-0
-description: "Generate videos through the public reAPI service using Seedance 2.0, whose default canonical reAPI model ID is doubao-seedance-2.0. Use when the user asks for Seedance 2.0, Seedance 2, text-to-video, image-to-video, or public reAPI video tasks. Requires REAPI_API_KEY or REAPI_KEY from https://reapi.ai."
+description: "Generate videos through public reAPI APIs using Seedance 2.0 models (default: doubao-seedance-2.0). Requires REAPI_API_KEY or REAPI_KEY from https://reapi.ai."
 ---
 
 # Seedance 2.0 via reAPI
