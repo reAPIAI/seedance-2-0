@@ -1,0 +1,20 @@
+{
+  "skill_name": "seedance-2-0",
+  "display_name": "Seedance 2.0",
+  "endpoint": "videos",
+  "default_model": "doubao-seedance-2.0",
+  "models": [
+    "doubao-seedance-2.0",
+    "doubao-seedance-2.0-fast",
+    "doubao-seedance-2.0-face",
+    "doubao-seedance-2.0-fast-face"
+  ],
+  "docs_url": "https://reapi.ai/docs/seedance-2-0",
+  "result_key": "video_urls",
+  "default_payload": {
+    "prompt": "a cinematic red panda walking through bamboo",
+    "duration": 5,
+    "resolution": "720p",
+    "size": "16:9"
+  }
+}

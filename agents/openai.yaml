@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.0"
+  short_description: "Generate videos with reAPI using Seedance 2.0 (`doubao-seedance-2.0`)."
+  default_prompt: "Use $seedance-2-0 to generate with reAPI."
